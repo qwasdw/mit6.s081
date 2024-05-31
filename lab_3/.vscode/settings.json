@@ -1,0 +1,17 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "__config": "c",
+        "__tree": "c",
+        "istream": "c",
+        "locale": "c",
+        "fs.h": "c",
+        "algorithm": "c",
+        "cstring": "c",
+        "cstdlib": "c",
+        "new": "c",
+        "ostream": "c"
+    },
+    "baidu.comate.enableComatePair": true
+}
